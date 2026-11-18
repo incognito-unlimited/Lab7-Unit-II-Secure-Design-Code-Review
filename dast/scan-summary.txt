@@ -1,0 +1,8 @@
+OWASP ZAP 2.17.0 scan summary
+Target: http://127.0.0.1:4000 (local NodeGoat 1.3.0)
+Mode: daemon, unauthenticated
+Spider: completed, 51 URLs discovered, start 2026-11-18T08:51:39+05:30
+Active scans: 5 targeted endpoints (/ , /login, /signup, /research, /allocations/4), all reported status 100
+Raw alerts: 226; distinct after de-duplication: 180
+Distinct risk counts: High 1, Informational 34, Low 99, Medium 46
+Note: Lab 6B ZAP setup was reused (same ZAP 2.17.0 installation and evidence format), but Lab 6B findings were against DVWA and are not used as NodeGoat evidence.

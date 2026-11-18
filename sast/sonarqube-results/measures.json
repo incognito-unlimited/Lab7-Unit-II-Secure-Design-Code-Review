@@ -1,0 +1,1 @@
+{"component":{"key":"lab7_nodegoat","name":"OWASP NodeGoat","qualifier":"TRK","measures":[{"metric":"vulnerabilities","value":"0","bestValue":true},{"metric":"ncloc","value":"3667"},{"metric":"code_smells","value":"63","bestValue":false},{"metric":"security_hotspots","value":"18","bestValue":false},{"metric":"bugs","value":"17","bestValue":false}]}}
